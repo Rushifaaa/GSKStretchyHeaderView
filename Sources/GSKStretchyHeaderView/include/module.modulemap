@@ -1,0 +1,3 @@
+module GSKStretchyHeaderView {
+    header "GSKStretchyHeaderView.h"
+}
